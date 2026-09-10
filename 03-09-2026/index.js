@@ -239,7 +239,7 @@
     //console.log(value);
 //}
 
-let employees = [
+/*let employees = [
     {
         name: "Arun",
         age: 25,
@@ -377,10 +377,26 @@ function* benefits() {
 
 }
 
-console.log("----- Employee Benefits -----");
+//console.log("----- Employee Benefits -----");
 
-let employeeBenefits = benefits();
+//let employeeBenefits = benefits();
 
-for (let benefit of employeeBenefits) {
-    console.log(benefit);
+//for (let benefit of employeeBenefits) {
+    //console.log(benefit);
+}/*
+
+for(let i=1;i<=10;i+1){
+console.log(i)
 }
+ 
+
+
+
+
+
+
+
+
+
+
+

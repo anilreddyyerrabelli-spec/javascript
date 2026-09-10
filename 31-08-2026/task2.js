@@ -198,6 +198,13 @@ console.log("isStudent:"+obj.isStudent)*/
 //console.log("Division:", num1 / num2);
 //console.log("Division:", num1 % num2);
 //console.log("Division:", num1 ** num2);
+
+for(i=1;i<=10;i+1){
+    console.log(i)
+}
+
+
+
  
 
 
